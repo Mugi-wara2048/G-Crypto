@@ -1,3 +1,3 @@
 #Crypto Repo
-Firdt project
+First project
 Notes
