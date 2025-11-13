@@ -1,3 +1,3 @@
 #Crypto Repo
 First project
-Notes
+Notes.
