@@ -1,6 +1,5 @@
 #Crypto projects
-Rover (Non-Tech)
-Earned by being consistently
-Chat regularly and keep the vibe positive
-Help others and participate in discussions
-Share ideas, answer questions, and contribute to community culture
+
+sudo apt update && sudo apt upgrade -y
+curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
+
